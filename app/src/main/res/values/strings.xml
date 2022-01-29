@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="subheading">TextView</string>
+    <string name="heading">Beathles Anthology Vol.1</string>
+    <string name="scrolling_text">Scrolling Text</string>
+    <string name="article">Contracts, transactions, and the records of them are among the defining structures in our economic, legal, and political systems.
+                           They protect assets and set organizational boundaries. They establish and verify identities and chronicle events.
+                           They govern interactions among nations, organizations, communities, and individuals. They guide managerial and social action.
+                           And yet these critical tools and the bureaucracies formed to manage them have not kept up with the economy’s digital transformation. They’re like a rush-hour gridlock trapping a Formula 1 race car.
+                           In a digital world, the way we regulate and maintain administrative control has to change.Blockchain promises to solve this problem. The technology at the heart of bitcoin and other virtual currencies, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. The ledger itself can also be programmed to trigger transactions automatically. (See the sidebar “How Blockchain Works.”)</string>
+</resources>
